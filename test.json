@@ -1,0 +1,10 @@
+{
+  "UniqueId" : "202f807b-40f1-4846-80ce-58812a9f499h",
+  "Name": "test",
+  "Capabilities": ["display", "locomotion", "speaker", "tof"],
+  "ManualOnlySkill": false,
+  "TimeoutInMs":60000,
+  "Language":"javascript",
+  "BroadcastDebug" : true,
+  "Permissions": ["Display", "Speaker", "Locomotion", "tof"]
+}
